@@ -1,4 +1,5 @@
 # VisionAssistAI
+[![License](https://img.shields.io/badge/license-GPL%20v3.0-blue.svg)](LICENSE)
 
 ## Project Overview
 VisionAssistAI is an open-source project aimed at developing a smart stick powered by artificial intelligence (AI) to assist individuals with visual impairments. The project focuses on enhancing mobility, independence, and safety for the visually impaired community.
