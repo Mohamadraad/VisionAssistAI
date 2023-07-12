@@ -13,7 +13,7 @@ VisionAssistAI is an open-source project aimed at developing a smart stick power
 
 ## Installation
 To install VisionAssistAI, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/VisionAssistAI.git`
+1. Clone the repository: `git clone https://github.com/Mohamadraad/VisionAssistAI.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Configure the system and hardware requirements as outlined in the documentation.
 
